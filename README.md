@@ -1,6 +1,8 @@
-# Kubernetes Template Project
+# Advanced Network Policy API project 
 
-The Kubernetes Template Project is a template for starting new projects in the GitHub organizations owned by Kubernetes. All Kubernetes projects, at minimum, must have the following files:
+This is a sub-project within the sig-network project of the CNCF. This project addresses enhancements to Kubernetes network policy beyond  the initial NetworkPolicy resource which is now GA within Kubernetes core networking code..
+
+**** Work in progress *****
 
 - a `README.md` outlining the project goals, sponsoring sig, and community contact information
 - an `OWNERS` with the project leads listed as approvers ([docs on `OWNERS` files][owners])
@@ -18,7 +20,7 @@ Learn how to engage with the Kubernetes community on the [community page](http:/
 
 You can reach the maintainers of this project at:
 
-- [Slack](http://slack.k8s.io/)
+- [Slack](https://kubernetes.slack.com/archives/C01CWSHQWQJ)
 - [Mailing List](https://groups.google.com/forum/#!forum/kubernetes-dev)
 
 ### Code of conduct
